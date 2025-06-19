@@ -1,0 +1,1 @@
+# nst-strapi-backend
